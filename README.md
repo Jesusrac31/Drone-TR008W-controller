@@ -25,7 +25,7 @@ Also, this software is thought to be executed in windows, in any other OS, you m
 
 ### Installing
 
-1. Install MSYS2 in the following link: https://www.msys2.org/#installation
+1. Install MSYS2 in the following link: [MSYS2](https://www.msys2.org/#installation)
 2. Open MSYS2 MINGW64
 3. Execute the following code:
 ```
@@ -75,12 +75,12 @@ Keyboard controls:
 ## Deployment
 
 This can be used in order to controll the dron TR008W using its camera for detecting fire or any other dangers. This drone would be able to arrive there and help in many ways.
-This project may also be helpful to see how drones like this works. In fact, it will help with any drone commented in the following repository: https://github.com/Matchstic/mini-drone-lib/tree/main
+This project may also be helpful to see how drones like this works. In fact, it will help with any drone commented in the following repository: [Original code](https://github.com/Matchstic/mini-drone-lib/tree/main)
 
 ## References
 
 This project is an extension to the project from Matchstic in the link [Original code](https://github.com/Matchstic/mini-drone-lib/tree/main). From this project, I used entirely the way to controll the drone and from its example I made the flight controller file.
-In addition, the camera had some troubles in order to use FFmpeg, so I added a patch commented in the following link [#8211](https://trac.ffmpeg.org/ticket/8211?cnum_hist=11&cversion=0) and implemented by MrMiracleMan111 [FFmpeg](https://github.com/MrMiracleMan111/FFmpeg)
+In addition, the camera had some troubles in order to use FFmpeg, so I added a patch commented in the following link [#8211](https://trac.ffmpeg.org/ticket/8211?cnum_hist=11&cversion=0) and implemented by MrMiracleMan111 [FFmpeg](https://github.com/MrMiracleMan111/FFmpeg).
 Here, you can see the patch implemented:
 
 ```
